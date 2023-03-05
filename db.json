@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "name": "check",
+      "email": "check@gmail.com",
+      "password": "check123",
+      "gender": "female",
+      "termsandcondition": true,
+      "age": "lessThan20",
+      "id": 2
+    }
+  ]
+}
